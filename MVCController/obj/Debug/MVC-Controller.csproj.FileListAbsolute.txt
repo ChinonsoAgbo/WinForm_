@@ -1,0 +1,9 @@
+D:\HourOfCode\..NetAPPS_Tutorial\MVCwithWimForms_src\MVCwithWimForms_src\WinFormMVC\MVCController\bin\Debug\MVCController.dll
+D:\HourOfCode\..NetAPPS_Tutorial\MVCwithWimForms_src\MVCwithWimForms_src\WinFormMVC\MVCController\bin\Debug\MVCController.pdb
+D:\HourOfCode\..NetAPPS_Tutorial\MVCwithWimForms_src\MVCwithWimForms_src\WinFormMVC\MVCController\bin\Debug\MVCModal.dll
+D:\HourOfCode\..NetAPPS_Tutorial\MVCwithWimForms_src\MVCwithWimForms_src\WinFormMVC\MVCController\bin\Debug\MVCModal.pdb
+D:\HourOfCode\..NetAPPS_Tutorial\MVCwithWimForms_src\MVCwithWimForms_src\WinFormMVC\MVCController\obj\Debug\MVC-Controller.csproj.AssemblyReference.cache
+D:\HourOfCode\..NetAPPS_Tutorial\MVCwithWimForms_src\MVCwithWimForms_src\WinFormMVC\MVCController\obj\Debug\MVC-Controller.csproj.CoreCompileInputs.cache
+D:\HourOfCode\..NetAPPS_Tutorial\MVCwithWimForms_src\MVCwithWimForms_src\WinFormMVC\MVCController\obj\Debug\MVC-Cont.4C3507AF.Up2Date
+D:\HourOfCode\..NetAPPS_Tutorial\MVCwithWimForms_src\MVCwithWimForms_src\WinFormMVC\MVCController\obj\Debug\MVCController.dll
+D:\HourOfCode\..NetAPPS_Tutorial\MVCwithWimForms_src\MVCwithWimForms_src\WinFormMVC\MVCController\obj\Debug\MVCController.pdb

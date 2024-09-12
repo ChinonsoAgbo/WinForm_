@@ -1,0 +1,16 @@
+D:\HourOfCode\..NetAPPS_Tutorial\MVCwithWimForms_src\MVCwithWimForms_src\WinFormMVC\UseMVCApplication\bin\Debug\UseMVCApplication.exe.config
+D:\HourOfCode\..NetAPPS_Tutorial\MVCwithWimForms_src\MVCwithWimForms_src\WinFormMVC\UseMVCApplication\bin\Debug\UseMVCApplication.exe
+D:\HourOfCode\..NetAPPS_Tutorial\MVCwithWimForms_src\MVCwithWimForms_src\WinFormMVC\UseMVCApplication\bin\Debug\UseMVCApplication.pdb
+D:\HourOfCode\..NetAPPS_Tutorial\MVCwithWimForms_src\MVCwithWimForms_src\WinFormMVC\UseMVCApplication\bin\Debug\MVCController.dll
+D:\HourOfCode\..NetAPPS_Tutorial\MVCwithWimForms_src\MVCwithWimForms_src\WinFormMVC\UseMVCApplication\bin\Debug\MVCModal.dll
+D:\HourOfCode\..NetAPPS_Tutorial\MVCwithWimForms_src\MVCwithWimForms_src\WinFormMVC\UseMVCApplication\bin\Debug\MVCView.dll
+D:\HourOfCode\..NetAPPS_Tutorial\MVCwithWimForms_src\MVCwithWimForms_src\WinFormMVC\UseMVCApplication\bin\Debug\MVCController.pdb
+D:\HourOfCode\..NetAPPS_Tutorial\MVCwithWimForms_src\MVCwithWimForms_src\WinFormMVC\UseMVCApplication\bin\Debug\MVCModal.pdb
+D:\HourOfCode\..NetAPPS_Tutorial\MVCwithWimForms_src\MVCwithWimForms_src\WinFormMVC\UseMVCApplication\bin\Debug\MVCView.pdb
+D:\HourOfCode\..NetAPPS_Tutorial\MVCwithWimForms_src\MVCwithWimForms_src\WinFormMVC\UseMVCApplication\obj\x86\Debug\UseMVCApplication.csproj.AssemblyReference.cache
+D:\HourOfCode\..NetAPPS_Tutorial\MVCwithWimForms_src\MVCwithWimForms_src\WinFormMVC\UseMVCApplication\obj\x86\Debug\UseMVCApplication.Properties.Resources.resources
+D:\HourOfCode\..NetAPPS_Tutorial\MVCwithWimForms_src\MVCwithWimForms_src\WinFormMVC\UseMVCApplication\obj\x86\Debug\UseMVCApplication.csproj.GenerateResource.cache
+D:\HourOfCode\..NetAPPS_Tutorial\MVCwithWimForms_src\MVCwithWimForms_src\WinFormMVC\UseMVCApplication\obj\x86\Debug\UseMVCApplication.csproj.CoreCompileInputs.cache
+D:\HourOfCode\..NetAPPS_Tutorial\MVCwithWimForms_src\MVCwithWimForms_src\WinFormMVC\UseMVCApplication\obj\x86\Debug\UseMVCAp.0723B5AA.Up2Date
+D:\HourOfCode\..NetAPPS_Tutorial\MVCwithWimForms_src\MVCwithWimForms_src\WinFormMVC\UseMVCApplication\obj\x86\Debug\UseMVCApplication.exe
+D:\HourOfCode\..NetAPPS_Tutorial\MVCwithWimForms_src\MVCwithWimForms_src\WinFormMVC\UseMVCApplication\obj\x86\Debug\UseMVCApplication.pdb

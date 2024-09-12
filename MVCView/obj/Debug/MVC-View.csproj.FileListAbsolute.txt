@@ -1,0 +1,13 @@
+D:\HourOfCode\..NetAPPS_Tutorial\MVCwithWimForms_src\MVCwithWimForms_src\WinFormMVC\MVCView\bin\Debug\MVCView.dll
+D:\HourOfCode\..NetAPPS_Tutorial\MVCwithWimForms_src\MVCwithWimForms_src\WinFormMVC\MVCView\bin\Debug\MVCView.pdb
+D:\HourOfCode\..NetAPPS_Tutorial\MVCwithWimForms_src\MVCwithWimForms_src\WinFormMVC\MVCView\bin\Debug\MVCController.dll
+D:\HourOfCode\..NetAPPS_Tutorial\MVCwithWimForms_src\MVCwithWimForms_src\WinFormMVC\MVCView\bin\Debug\MVCModal.dll
+D:\HourOfCode\..NetAPPS_Tutorial\MVCwithWimForms_src\MVCwithWimForms_src\WinFormMVC\MVCView\bin\Debug\MVCController.pdb
+D:\HourOfCode\..NetAPPS_Tutorial\MVCwithWimForms_src\MVCwithWimForms_src\WinFormMVC\MVCView\bin\Debug\MVCModal.pdb
+D:\HourOfCode\..NetAPPS_Tutorial\MVCwithWimForms_src\MVCwithWimForms_src\WinFormMVC\MVCView\obj\Debug\MVC-View.csproj.AssemblyReference.cache
+D:\HourOfCode\..NetAPPS_Tutorial\MVCwithWimForms_src\MVCwithWimForms_src\WinFormMVC\MVCView\obj\Debug\WinFormMVC.View.UsersView.resources
+D:\HourOfCode\..NetAPPS_Tutorial\MVCwithWimForms_src\MVCwithWimForms_src\WinFormMVC\MVCView\obj\Debug\MVC-View.csproj.GenerateResource.cache
+D:\HourOfCode\..NetAPPS_Tutorial\MVCwithWimForms_src\MVCwithWimForms_src\WinFormMVC\MVCView\obj\Debug\MVC-View.csproj.CoreCompileInputs.cache
+D:\HourOfCode\..NetAPPS_Tutorial\MVCwithWimForms_src\MVCwithWimForms_src\WinFormMVC\MVCView\obj\Debug\MVC-View.csproj.Up2Date
+D:\HourOfCode\..NetAPPS_Tutorial\MVCwithWimForms_src\MVCwithWimForms_src\WinFormMVC\MVCView\obj\Debug\MVCView.dll
+D:\HourOfCode\..NetAPPS_Tutorial\MVCwithWimForms_src\MVCwithWimForms_src\WinFormMVC\MVCView\obj\Debug\MVCView.pdb

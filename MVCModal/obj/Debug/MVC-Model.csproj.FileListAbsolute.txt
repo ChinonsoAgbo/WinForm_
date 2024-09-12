@@ -1,0 +1,6 @@
+D:\HourOfCode\..NetAPPS_Tutorial\MVCwithWimForms_src\MVCwithWimForms_src\WinFormMVC\MVCModal\bin\Debug\MVCModal.dll
+D:\HourOfCode\..NetAPPS_Tutorial\MVCwithWimForms_src\MVCwithWimForms_src\WinFormMVC\MVCModal\bin\Debug\MVCModal.pdb
+D:\HourOfCode\..NetAPPS_Tutorial\MVCwithWimForms_src\MVCwithWimForms_src\WinFormMVC\MVCModal\obj\Debug\MVC-Model.csproj.AssemblyReference.cache
+D:\HourOfCode\..NetAPPS_Tutorial\MVCwithWimForms_src\MVCwithWimForms_src\WinFormMVC\MVCModal\obj\Debug\MVC-Model.csproj.CoreCompileInputs.cache
+D:\HourOfCode\..NetAPPS_Tutorial\MVCwithWimForms_src\MVCwithWimForms_src\WinFormMVC\MVCModal\obj\Debug\MVCModal.dll
+D:\HourOfCode\..NetAPPS_Tutorial\MVCwithWimForms_src\MVCwithWimForms_src\WinFormMVC\MVCModal\obj\Debug\MVCModal.pdb
